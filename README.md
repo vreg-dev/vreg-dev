@@ -9,7 +9,7 @@
 
 Cybersecurity professional with hands-on experience in penetration 
 testing, network security analysis, and Python automation.  
-Certified by Google & CompTIA. CCNA completing July 2025.
+Certified by Google, CompTIA $ CCNA.
 
 ---
 
