@@ -37,7 +37,7 @@ Certified by Google & CompTIA. CCNA completing July 2025.
 
 ✅ Google Cybersecurity Certificate  
 ✅ CompTIA Security+/Network+  
-🔄 Cisco CCNA — Due July 2025  
+🔄 Cisco CCNA 
 
 ---
 
